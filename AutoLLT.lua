@@ -29,7 +29,7 @@ local GetUnitDefID = Spring.GetUnitDefID
 local GetSpectatingState = Spring.GetSpectatingState
 local WorldToScreenCoords = Spring.WorldToScreenCoords
 local GetCameraPosition = Spring.GetCameraPosition
-local glText = gl.Texts
+local glText = gl.Text
 local glColor = gl.Color
 ---------------------CFG---------------------
 --options
